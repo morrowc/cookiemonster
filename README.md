@@ -9,3 +9,5 @@ Server should provide 3 endpoints/urls:
   * /login - accept login details, and fill auth cookie
   * /stuff - send back basic content which is inaccessible without cookie.
   * /logout - destroy the auth cookie.
+
+##
