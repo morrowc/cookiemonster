@@ -6,9 +6,11 @@ const (
 	index = `<html><head><title>Index Page</title></head>
 <body>
 Three options:<br>
-<ol> <a href="/login">Login</a>
-<ol> <a href="/logout">Logout</a>
-<ol> <a href="/stuff">Stuff</a>
+<ol>
+<li> <a href="/login">Login</a>
+<li> <a href="/logout">Logout</a>
+<li> <a href="/stuff">Stuff</a>
+</ol>
 </body>
 </html>`
 

@@ -9,7 +9,6 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"log"
 	"net/http"
 	"strings"
 	"text/template"
